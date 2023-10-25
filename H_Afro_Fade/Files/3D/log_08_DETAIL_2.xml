@@ -1,0 +1,57 @@
+<batchrender>
+  <environmentinfo>
+    <machineinfo>
+      <machinename>Thiago Elias WDC</machinename>
+      <username>e060719</username>
+      <processortype></processortype>
+      <processorname>Apple M1 Pro</processorname>
+      <processornumber>10</processornumber>
+      <ostype>OS X 64 BIT</ostype>
+      <osversion>macOS: Version 13.5.1 (Build 22G90)</osversion>
+      <oglvendorname>Apple</oglvendorname>
+      <oglrendername>Apple M1 Pro</oglrendername>
+      <oglversion>2.2</oglversion>
+    </machineinfo>
+    <c4dinfo>
+      <c4dversion>2023.1.3</c4dversion>
+      <c4dplugins>addons advanced_render alembic archigrass assetbrowser bitmapfilter bpexchange browser bugslife_client c4d_emulation c4d_viewport_render ca ca2 cadexchange clothilde collada14 collada15 colorchoosergui compositing deltamush deployment dropzone dwg dwgobjects dynamics exchanges expressiontag fbx gltf gorillacam goz greyscalegorillahub hair hdrilink i_skp interop interop_forger io_forger io_obj lightkit3 metrics mkmodeler mocca model mograph motioncam motiontracker nbo nbp newman nodeeditor2 objects onlineupdater pbd_simulations physx_hybrid pluslibrary projectassetinspector python redshift redshift4c4d relaxuv scenemanager2 sculpt sculptbrushes shader signal sketch sky sla socialframe spacemouse substance teamrender thinking_particles tool_system_hybrid tpoperators usd uvviewport volumes xpressocore xtensions </c4dplugins>
+    </c4dinfo>
+  </environmentinfo>
+  <fileinfo>
+    <filename>Afro_Fade_0002.c4d</filename>
+    <filepath>/Users/e060719/Library/CloudStorage/OneDrive-DanielJ.EdelmanHoldings,Inc/Mac Downloads/Dove/Dove Files/MODELS/ADE/AFRO_FADE</filepath>
+    <renderdatainfo>
+      <rendersettings>DETAIL 2</rendersettings>
+      <take>DETAIL 2</take>
+      <camera>DETAIL 2</camera>
+      <width>6000</width>
+      <height>6000</height>
+      <filmaspect>1</filmaspect>
+      <pixelaspect>1</pixelaspect>
+      <fps>30</fps>
+      <from>0</from>
+      <to>0</to>
+      <steps>1</steps>
+      <saveinfo>
+        <imagepath>/Users/e060719/Library/CloudStorage/OneDrive-DanielJ.EdelmanHoldings,Inc/Mac Downloads/Dove/Dove Files/RENDERS/ADE/AFRO FADE/HI-RES</imagepath>
+        <imagedepth>16</imagedepth>
+        <imageformat>PNG</imageformat>
+      </saveinfo>
+      <renderengine>
+        <engine id="1036219" name="Redshift" />
+      </renderengine>
+      <videopost>
+        <effect id="1040189" name="RS Post-Effects" />
+        <effect id="1036219" name="Redshift" />
+      </videopost>
+    </renderdatainfo>
+  </fileinfo>
+  <renderinfo>
+  </renderinfo>
+  <batchinfo>
+    <added>Sunday, September 3, 2023, 6:56:22 AM</added>
+    <started>Sunday, September 3, 2023, 6:57:29 AM</started>
+    <rendertime>00:00:01</rendertime>
+    <result>Error - Out Of Memory</result>
+  </batchinfo>
+</batchrender>
