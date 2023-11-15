@@ -28,4 +28,4 @@ This Github repository contains the files that are referenced in [the downloadbl
 
 ---
 
-[^1]Source: Online survey conducted by Edelman DXI, a global, multidisciplinary research, analytics, and data consultancy, in the USA and the UK in March/April 2023. Surveyed 1,002 adult gamers (aged 18+, 502 in the USA and 500 in the UK), 300 Black gamers (men and women aged 18-55 who self-identify as Black gamers playing video games, 175 in the USA and 125 in the UK) and 160 video game developers (men and women aged 18-55 who work as developers in the gaming industry, 80 in each of the USA and the UK).
+[^1]: Online survey conducted by Edelman DXI, a global, multidisciplinary research, analytics, and data consultancy, in the USA and the UK in March/April 2023. Surveyed 1,002 adult gamers (aged 18+, 502 in the USA and 500 in the UK), 300 Black gamers (men and women aged 18-55 who self-identify as Black gamers playing video games, 175 in the USA and 125 in the UK) and 160 video game developers (men and women aged 18-55 who work as developers in the gaming industry, 80 in each of the USA and the UK).
